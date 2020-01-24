@@ -1,0 +1,4 @@
+C:\curso-net\repositorio\aula-dotnet\AulaTodo\ORM\bin\Debug\netcoreapp3.1\Entities.dll
+C:\curso-net\repositorio\aula-dotnet\AulaTodo\ORM\obj\Debug\netcoreapp3.1\ORM.csprojAssemblyReference.cache
+C:\curso-net\repositorio\aula-dotnet\AulaTodo\ORM\obj\Debug\netcoreapp3.1\ORM.AssemblyInfoInputs.cache
+C:\curso-net\repositorio\aula-dotnet\AulaTodo\ORM\obj\Debug\netcoreapp3.1\ORM.AssemblyInfo.cs
